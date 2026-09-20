@@ -191,10 +191,6 @@ These programs are the same as Part 1 but this time use an ``ArrayList`` for sto
 	``
 
 
-## Part 5 - Chroma key
-
-Goto next part.
-
 
 ## Part 6 - Cards Array & ArrayList
 
